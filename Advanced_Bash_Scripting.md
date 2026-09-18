@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 🚀 Advanced Shell Scripting for DevOps
