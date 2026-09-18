@@ -146,14 +146,17 @@ ssh user@server "cd /app && git pull && systemctl restart app"
   ```bash
   crontab -e
   0 2 * * * /home/user/backup.sh
-
-  * * * * *  command
+  
+```
+* * * * *  command
 │ │ │ │ │
 │ │ │ │ └── Day of week (0–6) (Sunday=0)
 │ │ │ └──── Month (1–12)
 │ │ └────── Day of month (1–31)
 │ └──────── Hour (0–23)
 └────────── Minute (0–59)
+
+```
 
   ```
 
