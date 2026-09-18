@@ -2,7 +2,6 @@
 ```markdown
 # 🚀 Advanced Shell Scripting for DevOps
 
----
 
 ## 1. Pipes & Redirection
 - **Pipe (`|`)** → send output of one command into another
