@@ -158,8 +158,6 @@ ssh user@server "cd /app && git pull && systemctl restart app"
 
 ```
 
-  ```
-
 ---
 
 ## 12. Advanced Argument Handling
