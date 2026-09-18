@@ -6,7 +6,7 @@
 |  User   | --->  |  Shell  | --->  | Kernel  | --->  | Hardware|
 +---------+       +---------+       +---------+       +---------+
 
----
+```
 
 ## 1. Introduction to Shell Scripting
 - **Definition**: Shell scripting automates tasks in Linux by writing sequential commands.
