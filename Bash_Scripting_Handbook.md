@@ -1,6 +1,4 @@
 
----
-
 ```markdown
 # 📘 Mastering Shell Scripting – Complete Notes
 
